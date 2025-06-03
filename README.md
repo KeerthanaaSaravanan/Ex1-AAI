@@ -1,9 +1,4 @@
-**Name:** Keerthana Saravanan
-**Register Number:** 212223240070
-<H3> Experiment 1</H3>
-<H3>DATE:01/09/2024</H3>
-
-# Implementation of Bayesian Networks
+# EX 1 Implementation of Bayesian Networks
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
